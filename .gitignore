@@ -1,7 +1,7 @@
 *.pyc
 *.csv
 *.zip
-pretrained_encoders/
-saved_models/
+pretrained_encoders/*
+saved_models/*
 .vscode
 .ipynb_checkpoints
